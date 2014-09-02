@@ -1,7 +1,7 @@
 oe1downloader
 =============
 
-Downloads selected radio programms from the Austrian Radio Station Ö1
+Downloads selected radio programms from yesterday, from the Austrian Radio Station Ö1, meant to be run via cron
 
 The Programm is written in Python, and allthogh its poorly written, it does what it is supposed to do...
 
