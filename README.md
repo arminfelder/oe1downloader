@@ -14,5 +14,7 @@ At the moment the Program consists of three files:
 TODOs:
 
 -multiple DB support
+
 -command line arguments , e.g select date
+
 -clean code
