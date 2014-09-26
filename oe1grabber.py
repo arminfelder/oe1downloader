@@ -112,4 +112,4 @@ class oe1grabber():
 
 if __name__ == "__main__":
     main = oe1grabber()
-    main()
+    sys.exit(main.exit_())
