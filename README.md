@@ -17,4 +17,6 @@ TODOs:
 
 -command line arguments , e.g select date
 
+-QT5 GUI
+
 -clean code
